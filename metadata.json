@@ -1,0 +1,6 @@
+{
+  "name": "Fretboard Trainer",
+  "description": "An interactive guitar fretboard memorization trainer featuring game modes like find-it, name-it, play-along, and physical guitar input (using microphone pitch detection). Styled in premium black and gold.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
